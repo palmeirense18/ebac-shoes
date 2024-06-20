@@ -89,6 +89,10 @@ nav ul li a {
     gap: 0 10px;
 }
 
+.product {
+    display: grid;
+}
+
 .imgProduto {
     justify-content: space-around;
     margin: 10px;
